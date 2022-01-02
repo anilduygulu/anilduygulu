@@ -1,0 +1,2 @@
+- Hi, I’m @anilduygulu
+- I’m currently working as a fullstack developer
